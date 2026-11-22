@@ -1,0 +1,25 @@
+{
+  "name": "autoinsight-ai-wireframe",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AutoInsight AI – interactive wireframe for the Days to Sell Anomaly Explainer (mock data, React + Vite).",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.6",
+    "recharts": "^3.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^6.4.6"
+  }
+}
